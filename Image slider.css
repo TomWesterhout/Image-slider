@@ -1,0 +1,31 @@
+#slider {
+	height: 720px;
+	width: 480px;
+	margin: auto;
+	overflow: hidden;
+}
+
+img {
+	height: 720px;
+	width: 480px;
+	display: none;
+}
+
+a {
+	font-size: 40px;
+	font-weight: bold;
+	color: #a0a0a0;
+	text-decoration: none;
+}
+
+#left {
+	position: absolute;
+	top: 47%;
+	left: 22%;
+}
+
+#right {
+	position: absolute;
+	bottom: 47%;
+	left: 77%;
+}
